@@ -4,3 +4,4 @@ var accountPass="12344332"
 accountCity="Mumbai"
 
 console.log(accountPass);
+console.table([accoindId, accountEmail,accountPass,accountCity])
